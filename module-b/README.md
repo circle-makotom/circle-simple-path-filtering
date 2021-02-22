@@ -1,3 +1,3 @@
 # Module B
 
-Please edit this file to trigger jobs for module B.
+Please edit this file accordingly to trigger jobs for module B.
